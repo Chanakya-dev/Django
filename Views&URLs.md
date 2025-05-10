@@ -1,7 +1,5 @@
 ### Example: Creating a Basic View with `HttpResponse`
 
-In this case, we’ll modify the view to return a simple response, rather than rendering a template.
-
 ### Step 1: Define the View
 
 Instead of using `render()`, we will use `HttpResponse` to return a basic text response.
