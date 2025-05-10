@@ -1,5 +1,3 @@
-Certainly! If you want to return a basic HTTP response instead of rendering a template, you can use Django’s `HttpResponse` class to send a plain text or HTML response directly.
-
 ### Example: Creating a Basic View with `HttpResponse`
 
 In this case, we’ll modify the view to return a simple response, rather than rendering a template.
